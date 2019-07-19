@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<_x0038_37HealthcareClaim>
+  <ModifiedOn>102</ModifiedOn>
+  <ClaimRefNo>5591</ClaimRefNo>
+  <PatientAccount>568351859</PatientAccount>
+  <ClaimNumber>201808030002</ClaimNumber>
+  <TotalBilledCharges>141</TotalBilledCharges>
+  <BillType>111</BillType>
+  <DiagnosticCodes>R0602:E785</DiagnosticCodes>
+  <Submission>
+    <Submitter>ADVANTEK BENEFIT ADMINISTRATORS</Submitter>
+    <SubmitterID>ADVANTEK</SubmitterID>
+    <ContactName>ADVANTEK BENEFIT ADMINISTRATORS</ContactName>
+    <ContactPhone>dm@advantekbenefit.com</ContactPhone>
+    <Receiver>HOPEWELL</Receiver>
+    <ReceiverID>HOPERISK</ReceiverID>
+  </Submission>
+  <Provider>
+    <ProviderID>0</ProviderID>
+    <ProviderNPI>1972500577</ProviderNPI>
+    <TaxID>821409361</TaxID>
+    <FirstName>GILBERT</FirstName>
+    <LastName>SUNIO</LastName>
+    <MiddleInitial></MiddleInitial>
+    <Address>5510 W DE LAS ROBLES</Address>
+    <Address2></Address2>
+    <City>VISALIA</City>
+    <State>CA</State>
+    <Zip>932915345</Zip>
+  </Provider>
+  <Patient>
+    <FirstName>CHARLES</FirstName>
+    <LastName>SCHUMACHER</LastName>
+    <MiddleInitial>M</MiddleInitial>
+    <Relationship></Relationship>
+    <BirthDate>19350214</BirthDate>
+    <GenderCode>M</GenderCode>
+    <Address>915 W ASHLAND</Address>
+    <Address2></Address2>
+    <City>VISALIA</City>
+    <State>CA</State>
+    <ZipCode>93277</ZipCode>
+  </Patient>
+  <Insured>
+    <Policy>0024</Policy>
+    <FirstName>SHERRIE</FirstName>
+    <LastName>BAKKE</LastName>
+    <MiddleInitial>A</MiddleInitial>
+    <Address>0</Address>
+    <Address2>0</Address2>
+    <City>0</City>
+    <State>0</State>
+    <ZipCode>0</ZipCode>
+    <EmployerID>AV2401676</EmployerID>
+  </Insured>
+  <LineItems>
+    <ClaimLineItem>
+      <ServiceDate>20180701-20180701</ServiceDate>
+      <ProcedureCode>99214</ProcedureCode>
+      <Modifier>25</Modifier>
+      <Description>UN</Description>
+      <Units>1</Units>
+      <Charges>141</Charges>
+    </ClaimLineItem>
+  </LineItems>
+</_x0038_37HealthcareClaim>
